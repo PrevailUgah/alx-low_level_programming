@@ -1,11 +1,12 @@
 #include <stdio.h>
-/*
- * main-to print the specified strinf
+/**
+ * main - Entry level
  *
- * Description: A c program to print with put function
+ * Description - A C programm to print with put function
  *
- * Return : Always 0 to exit (success)
+ * Return - Always 0 (success)
  */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
